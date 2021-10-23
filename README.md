@@ -1,21 +1,30 @@
 # A selection of splash screens for reMarkable
+
 These splash screens were not created by the author, but merely collected. A list of contributors can be found in the Contributors section. Copyright belongs to the respective owners.
 
 # Instruction
+
 You might want to use [random screens](https://github.com/Neurone/reMarkable) by [Neurone](https://github.com/Neurone) or simply copying the necessary files to your device. [Read more on the reMarkable wiki](https://remarkablewiki.com/tips/splashscreens).
 
 ## Automagic
+
 Follow the instructions [here](https://github.com/Neurone/reMarkable)
+
 ## Manually copying files
+
 You can install splash screens by replacing the original files on your device.
 
 Sleep screen → ```/usr/share/remarkable/suspended.png```
 Poweroff screen → ```/usr/share/remarkable/poweroff.png```
+
 # Contributors
+
 Most screens where collected from the [inofficial reMarkable Discord. Feel free to join!](https://discord.gg/9amXkzTp)
 
 ## Poweroff screens
+
 _Located in the ```poweroff``` folder_
+
 - p1 by c0d3r
 - p2 by mji
 - p3 by c0d3r
@@ -24,7 +33,9 @@ _Located in the ```poweroff``` folder_
 - p6 by mcwine
 
 ## Sleep screens
+
 _Located in the ```sleeping``` folder_
+
 - s1 by c0d3r
 - s2 by c0d3r
 - s3 by einalex
@@ -63,3 +74,4 @@ _Located in the ```sleeping``` folder_
 - s36 by mcwine
 - s37 by c0d3r
 - s38 by Sandcrawler
+- s39 by [unagihatsuden](https://twitter.com/unagihatsuden/status/1446749767380258816) (brought by dutchmargesta)
