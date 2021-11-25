@@ -84,3 +84,4 @@ _Located in the ```sleeping``` folder_
 - s39 by [unagihatsuden](https://twitter.com/unagihatsuden/status/1446749767380258816) (brought by dutchmargesta)
 - s40 by c0d3r
 - s41 by RobotCaleb
+- s42 by TheDoctor
