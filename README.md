@@ -32,6 +32,8 @@ Most screens where collected from the [inofficial reMarkable Discord. Feel free 
 
 _Located in the ```poweroff``` folder_
 
+[PREVIEWS](./sleeping/previews.md)
+
 - p1 by c0d3r
 - p2 by mji
 - p3 by c0d3r
