@@ -43,6 +43,8 @@ _Located in the ```poweroff``` folder_
 
 _Located in the ```sleeping``` folder_
 
+[PREVIEWS](./sleeping/previews.md)
+
 - s1 by c0d3r
 - s2 by c0d3r
 - s3 by einalex
